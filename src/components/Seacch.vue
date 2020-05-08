@@ -48,9 +48,8 @@
       </a-col>
     </a-row>
   </div>
-</template>
-
-      </a-layout-content>
+      </template>
+</a-layout-content>
     </a-layout>
   </a-layout>
 </template>
